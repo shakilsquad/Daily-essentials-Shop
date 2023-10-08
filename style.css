@@ -1,0 +1,20 @@
+
+
+.font-family{
+      font-family: 'Merriweather', serif;
+}
+
+#id{
+      background-color: #ffc107;
+}
+#ids{
+      background-color: gray;
+      border: 1px solid yellow;
+}
+/* <div class="rating items-center mt-4 justify-center flex ">
+                              <input type="radio" id="id" name="rating-1" class="mask mask-star">
+                              <input type="radio" id="id" name="rating-1" class="mask mask-star">
+                              <input type="radio" id="id" name="rating-1" class="mask mask-star">
+                              <input type="radio" id="ids" name="rating-1" class="mask mask-star">
+                              <input type="radio" id="ids" name="rating-1" class="mask mask-star">
+                        </div> */
